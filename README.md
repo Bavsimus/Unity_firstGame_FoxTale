@@ -1,6 +1,6 @@
-# teamSnake_firstGame
+# Unity_firstGame_FoxTale
 
-It's our first game project as teamSnake.
+It's my first game project.
 
 ### Status
 - Developing:✅
@@ -10,12 +10,8 @@ It's our first game project as teamSnake.
  
 - [Unity](https://unity.com/)
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-- [Aseprite](https://www.aseprite.org/)
 
 ## Authors
 
   - **Talib YESILDAL** - *Development and game design* -
     [Bavsimus](https://github.com/Bavsimus)
-
-  - **Ozan GUREL** - *Development and game design* -
-    [Apei7](https://github.com/Apei7)
