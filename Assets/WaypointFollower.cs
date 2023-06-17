@@ -21,4 +21,19 @@ public class WaypointFollower : MonoBehaviour
 
         transform.position = Vector2.MoveTowards(transform.position, waypoint[currentWaypCoord].transform.position, Time.deltaTime * speed);
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            collision.gameObject.transform.SetParent(transform);
+        }
+    }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            collision.gameObject.transform.SetParent(null);
+        }
+    }
 }
