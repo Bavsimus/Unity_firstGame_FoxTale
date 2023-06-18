@@ -1,5 +1,5 @@
 # Unity_firstGame_FoxTale
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4a4e69,100:8d99ae&text=Unity_firstGame_FoxTale🦊animation=scaleIn&height=200&&fontSize=24&fontAlignY=40&fontAlign=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4a4e69,100:8d99ae&text=Unity_firstGame_FoxTale🦊%20animation=scaleIn&height=200&&fontSize=24&fontAlignY=40&fontAlign=50&fontColor=FFFFFF)
 <hr>
 It's my first game project.
 
